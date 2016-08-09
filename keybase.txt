@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/johnk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://johnkoh.net
+  * I am johnk (https://keybase.io/johnk) on keybase.
+  * I have a public key with fingerprint 42B6 DC51 3D9D FDEC 4C28  7CD7 8353 E637 B3AA EEB0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010168341da64adfecc57a9a2ab2cc207f66b97b4338b96bd3a4cdf1748a475cb48b0a",
+            "fingerprint": "42b6dc513d9dfdec4c287cd78353e637b3aaeeb0",
+            "host": "keybase.io",
+            "key_id": "8353e637b3aaeeb0",
+            "kid": "010168341da64adfecc57a9a2ab2cc207f66b97b4338b96bd3a4cdf1748a475cb48b0a",
+            "uid": "52547516d73cdcd1dcbfa12b9e36fd19",
+            "username": "johnk"
+        },
+        "service": {
+            "hostname": "johnkoh.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470705193,
+    "expire_in": 157680000,
+    "prev": "b53ba450dc2f98a2505d9b9296f3836c8f3f69ca0136e896489e473adfcbe13b",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtUm1MW1UYbgGbgBG3EYZhuMgN6oak3u+PQqJsyWLYcBGGZeug3nPuueXS2Vva
+rgiMDBGdEF2EgBqW6ZiKMFgGA5wODboOdaKTlI7JpwPRORfAMFNBBLwlmvjDn54/
+J+d5n+c5z/vmfe2ecF2U/oXsn7iuM3Md+oFbQGduNRJlGFClEsxUhtnR+oUOScjt
+sdoVCTNhOIETLE/RhCSytCjJCEKGEwWRFAEJIYlzMssCgQM0RfFAYIFEiTSUZIKj
+eZHmGAhoHuAiloLJisOGXE6X4vBotjQJWAkyBCUJkiwhSEOS56DE8RRDIZbiACWK
+CAFcExao7pBCCwdENzIqqoZpD+t6vP/g/8+5D6/bMSSjoQQrcRSUoERIEMgiQQIB
+UawsEUKI6EYuh/gs0tiFaoHDjpWnYBrkVSAKTTXUxr/LaoHRgTyazulSPSpUD2mF
+Ao/HaQrpPCXOELEYAevfFlagOCRthJrAi1xuRXVgJkJjQo8S8iRoDudwhhCoFAw9
+51RcyKqEGAzH8rh2Qt8gr2YJGAqININLkJSzBV4kGZyRBCCQAitTPMVCXqZkVoAi
+TlAs4gWW5gVEc5Q2QggQQQEs1FWRQ8VMtJZTtGmebsXmED2HXQgrj6oOS4jQ6aN0
+hrvCQsuli4rc8M/GnbXfu6TPeXVfPRPW2XFG7Wqry66eG5xKnDSHz/uGXtcnxTyd
+klcUw17SLT4YG9v3le4iOPlLECv6IS45CKIHdgY+/rL5/hNPmWsv/cFOTovTpS3F
+tds7t84Md1oii9JWc9IDKxu/rxjvjr+Wdqe97eGBzgcyzTcLjZOz6RPWxs1Xt5hH
+xyN7syr3TBi7mn177xh+G6/0H89565FdcaU7rgS9/m3mZD1oGC6sSP0kZuD4nhGh
+cuKVFTVjiv5gwfjZewZ1/6a8MLRhUdn3ou1q+PwgWoBN+bbajFmlb4a479Gl0ubT
+p8pdVv9SfU9urr89aNjvPbnmfj4v1lCWu7zz1FzLhfn2GxeOZFU2L6xtnfyZqNlU
+0FY0Vnpl6vYNKupEf+S7XyRVZa6+H9GR028pR2NzvtEnWeNii6VkpaM34mLPSOKK
+4VjD3Ld1Hxk2X084f8C+cddDB/90vnkg/onuxu6RT5vsMyO2kds9S3GBhMdT+yKi
+s37tbMqPXHQGzr6cv+SrOZp0q2RV4V/K94/WyNdSM62X+wIL3+z+rnh5vnoizUL6
+334G3AwGt2e0Jvq8n48lv2FhU+5GOw6uedcqL7cltKRD+5aqoUQUqK8Zbug/Gr9S
+vHBu9vRQi256Zm/VbnPg6+Rz0R9mlbUOxv1+vu6I5Vh047Jvcnbbj9cr5JrEbBPz
+GOQtve/8BQ==
+=cvYL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/johnk
+
+==================================================================
+
