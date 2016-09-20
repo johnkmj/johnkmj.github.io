@@ -1,4 +1,4 @@
-# johnthedong.github.io
+# johnkmj.github.io
 ##About 
 A personal landing site, complete with bio and resume and written in bare-bones HTML5 and CSS for my comp20 class. 
 Everything required has been correctly implemented as required. A CNAME note has been added to redirect my *.github.io site to my personal domain. 
